@@ -1,6 +1,6 @@
 # TP M2 SE
 
-Version : 1.1
+Version : 1.2
 
 Le fichier Sujet.pdf correspond au sujet du TP
 Le répertoire python/ contient l'ensemble des ressources Python du TP
