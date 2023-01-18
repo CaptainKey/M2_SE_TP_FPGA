@@ -10,5 +10,6 @@ Le répertoire sources/ contient l'ensemble des ressources Vitis HLS du TP.
 
 Rajouter dans google Colab les instructions suivantes : 
 
-!https://download.pytorch.org/tutorial/hymenoptera_data.zip
+!wget https://download.pytorch.org/tutorial/hymenoptera_data.zip
+
 !unzip hymenoptera_data.zip
